@@ -1,0 +1,69 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            116.68105920150816,
+                            -20.67952294953898,
+                            0
+                        ],
+                        [
+                            116.67039808544328,
+                            -20.631964120263692,
+                            0
+                        ],
+                        [
+                            116.7248183032507,
+                            -20.62054602439853,
+                            0
+                        ],
+                        [
+                            116.73651524863865,
+                            -20.667885951800336,
+                            0
+                        ],
+                        [
+                            116.68105920150816,
+                            -20.67952294953898,
+                            0
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "name": "ICEYE_ARCHIVE_SL_36260_20201015T073533",
+                "styleUrl": "#PolyStyle00",
+                "styleHash": "-17b67303",
+                "timestamp": "2020-10-15T07:35:33.255112",
+                "stroke": "#ff0000",
+                "stroke-opacity": 1,
+                "stroke-width": 2,
+                "fill-opacity": 0,
+                "product_name": "ICEYE_ARCHIVE_SL_36260_20201015T073533",
+                "product_type": "Spotlight",
+                "look_side": "right",
+                "orbit_direction": "ASCENDING",
+                "satellite_look_angle": "20.72",
+                "acquisition_start_utc": "2020-10-15T07:35:33.255112",
+                "acquisition_end_utc": "2020-10-15T07:35:35.075306",
+                "polarization": "VV",
+                "incidence_near": "22.499521201198128",
+                "incidence_center": "22.76544706618204",
+                "incidence_far": "23.03044208311177",
+                "coord_first_near": "-20.67952294953898, 116.68105920150815",
+                "coord_first_far": "-20.667885951800336, 116.73651524863863",
+                "coord_last_near": "-20.631964120263692, 116.67039808544328",
+                "coord_last_far": "-20.62054602439853, 116.7248183032507",
+                "coord_center": "-20.650032972483114, 116.70295753757624",
+                "preview_image": "http://iceye-public-images-archive.s3-website.eu-central-1.amazonaws.com/ICEYE_ARCHIVE_SL_36260_20201015T073533.png",
+                "request_data": "Current customers: order via customer success. New customers: https://www.iceye.com/lp/contact-us",
+                "license": "Preview images licenced under CC BY-NC 4.0 https://creativecommons.org/licenses/by-nc/4.0/legalcode"
+            }
+        }
+   ]
+}
